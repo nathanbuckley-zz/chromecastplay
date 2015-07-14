@@ -1,0 +1,29 @@
+{
+  "name": "chromecastplay",
+  "version": "0.0.1",
+  "description": "repo with chrome cast node ideas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanbuckley/chromecastplay.git"
+  },
+  "keywords": [
+    "chromecast",
+    "chrome",
+    "google",
+    "node",
+    "js"
+  ],
+  "author": "nathanbuckley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nathanbuckley/chromecastplay/issues"
+  },
+  "homepage": "https://github.com/nathanbuckley/chromecastplay#readme",
+  "dependencies": {
+    "chromecasts": "^1.5.1"
+  }
+}
